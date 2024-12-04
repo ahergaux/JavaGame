@@ -9,4 +9,4 @@ $ java Menu 0
 
 # Compile the Project
 
-compile with the script compile.sh
+compile with the script compil.sh
