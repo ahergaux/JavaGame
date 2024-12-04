@@ -8,3 +8,5 @@ $ java Menu 1
 $ java Menu 0
 
 # Compile the Project
+
+compile with the script compile.sh
