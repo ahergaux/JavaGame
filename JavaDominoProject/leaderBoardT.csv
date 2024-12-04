@@ -1,0 +1,8 @@
+#Classements des meilleurs parties pour le Jeu Domino
+#Format CSV
+#Colonne Username,NombrePartie,PartieGagné
+
+Username,NombrePartie,PartieGagné
+qsgf,1,1
+Alexandre,0,0
+grs,1,0

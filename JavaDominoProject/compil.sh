@@ -1,0 +1,1 @@
+javac AIDomino.java Menu.java JeuDomino.java Chemin.java SetDomino.java JeuTrax.java Plateau.java PlateauTrax.java PlateauDomino.java Tuile.java TuileTrax.java TuileDomino.java Joueur.java JoueurTrax.java JoueurDomino.java Pioche.java SetTrax.java

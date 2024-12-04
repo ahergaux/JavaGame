@@ -1,0 +1,7 @@
+#Classements des meilleurs parties pour le Jeu Domino
+#Format CSV
+#Colonne Username,NombrePartie,MeilleurScore
+
+Username,NombrePartie,MeilleurScore
+ORDI1,6,30445
+ORDI0,6,30353

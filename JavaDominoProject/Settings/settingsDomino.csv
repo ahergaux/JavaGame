@@ -1,0 +1,6 @@
+#Paramétrage du Jeu Domino
+#Format CSV
+#Colonne : NombreDeJoueurs,NombreDeTuiles
+
+NombreDeJoueurs,NombreDeTuiles
+2,1000
